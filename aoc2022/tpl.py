@@ -4,11 +4,11 @@ with open("test.txt","r") as input:
 
 def run_part1():
 
-   print("result")
+  print("result")
 
 def run_part2():
 
-   print("result")
+  print("result")
 
 run_part1()
 run_part2()
